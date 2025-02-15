@@ -1,5 +1,5 @@
 # [AIDAO](https://education.yandex.ru/aidao) — Artificial intelligence and data analysis Olympiad
-## 3rd place solution
+## 3/40 place solution (40 teams selected from ~400 teams in the qualifying stage https://github.com/RomanMalov/AIDAO-solution )
 
 ### Key ideas:
 - One backbone (mobile_net)
